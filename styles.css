@@ -1,0 +1,33 @@
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ol {
+    list-style-type: decimal;
+}
+user agent stylesheet
+ul ul {
+    list-style-type: circle;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    background-color: lightgray;
+    font-weight: 600;
+}
+user agent stylesheet
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
